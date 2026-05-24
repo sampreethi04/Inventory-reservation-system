@@ -289,15 +289,9 @@ Displays reservation cancellation and stock restoration.
 
 ---
 
-## 5. Reservation Expired
 
-Shows automatic reservation expiry after countdown completion.
 
-![Reservation Expired](reservation-expired.png)
-
----
-
-## 6. Error Handling – 409 Conflict
+## 5. Error Handling – 409 Conflict
 
 Displays stock unavailable or duplicate reservation error.
 
@@ -305,7 +299,7 @@ Displays stock unavailable or duplicate reservation error.
 
 ---
 
-## 7. Error Handling – 410 Gone
+## 6. Error Handling – 410 Gone
 
 Displays reservation expired error.
 
