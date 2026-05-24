@@ -261,7 +261,7 @@ No installation or additional setup is required.
 
 Displays all available products and stock information.
 
-![Product Listing](screenshots/product-list.png)
+![Product Listing](product-list.png)
 
 ---
 
@@ -269,7 +269,7 @@ Displays all available products and stock information.
 
 Shows reservation details and countdown timer after reserving a product.
 
-![Reservation Created](screenshots/reservation-created.png)
+![Reservation Created](reservation-created.png)
 
 ---
 
@@ -277,7 +277,7 @@ Shows reservation details and countdown timer after reserving a product.
 
 Displays successful purchase confirmation.
 
-![Reservation Confirmed](screenshots/reservation-confirmed.png)
+![Reservation Confirmed](reservation-confirmed.png)
 
 ---
 
@@ -285,7 +285,7 @@ Displays successful purchase confirmation.
 
 Displays reservation cancellation and stock restoration.
 
-![Reservation Cancelled](screenshots/reservation-cancelled.png)
+![Reservation Cancelled](reservation-cancelled.png)
 
 ---
 
@@ -293,7 +293,7 @@ Displays reservation cancellation and stock restoration.
 
 Shows automatic reservation expiry after countdown completion.
 
-![Reservation Expired](screenshots/reservation-expired.png)
+![Reservation Expired](reservation-expired.png)
 
 ---
 
@@ -301,7 +301,7 @@ Shows automatic reservation expiry after countdown completion.
 
 Displays stock unavailable or duplicate reservation error.
 
-![409 Conflict](screenshots/error-409.png)
+![409 Conflict](error-409.png)
 
 ---
 
@@ -309,7 +309,7 @@ Displays stock unavailable or duplicate reservation error.
 
 Displays reservation expired error.
 
-![410 Gone](screenshots/error-410.png)
+![410 Gone](error-410.png)
 
 ---
 
